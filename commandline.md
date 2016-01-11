@@ -94,3 +94,4 @@ make && make install   # "make install" will run only if "make" is successful
 ```
 
 test
+test2
